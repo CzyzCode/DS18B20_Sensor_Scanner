@@ -17,6 +17,7 @@ A simple ESP32-based program to scan and display the addresses of DS18B20 temper
   - [OneWire](https://github.com/PaulStoffregen/OneWire)
 
 ## Pin Configuration
+![Diagram of the project](images/diagram.png)
 Connect the DS18B20 sensors as follows:
 - **VCC**: 3.3V or 5V.
 - **GND**: Ground.
