@@ -25,11 +25,12 @@ Connect the DS18B20 sensors as follows:
 
 ## Installation
 1. Clone this repository or download the ZIP file.
-2. Open the: * `src/DS18B20_Sensor_Scanner.ino` file in Arduino IDE,
-             * copy repository to vscode with Platformio plugin. 
-3. Install the required libraries (see Requirements).
-4. Upload the code to your ESP32 board.
-5. Open the Serial Monitor in Arduino IDE and set the baud rate to `115200`.
+2. Open the:
+-`src/DS18B20_Sensor_Scanner.ino` file in Arduino IDE,
+-copy repository to vscode with Platformio plugin. 
+4. Install the required libraries (see Requirements).
+5. Upload the code to your ESP32 board.
+6. Open the Serial Monitor in Arduino IDE and set the baud rate to `115200`.
 
 ## Usage
 1. Connect one or more DS18B20 sensors to the configured pin (default: GPIO 16).
