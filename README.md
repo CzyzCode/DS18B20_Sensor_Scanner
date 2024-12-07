@@ -13,7 +13,7 @@ A simple ESP32-based program to scan and display the addresses of DS18B20 temper
 - ESP32 (e.g., Lolin S2 Mini or similar board).
 - DS18B20 temperature sensors.
 - Pull-up resistor (4.7kΩ) connected between the data pin and VCC.
-- Arduino IDE with the following libraries:
+- Libraries:
   - [OneWire](https://github.com/PaulStoffregen/OneWire)
 
 ## Pin Configuration
