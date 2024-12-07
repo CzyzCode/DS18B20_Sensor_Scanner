@@ -35,4 +35,5 @@ Connect the DS18B20 sensors as follows:
 2. Upload the code to the ESP32 board.
 3. Open the Serial Monitor to view the scanned sensor addresses and their count.
 
-## Example Output
+## License
+This project is licensed under the [MIT License](LICENSE).
