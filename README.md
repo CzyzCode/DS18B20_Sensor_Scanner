@@ -1,6 +1,6 @@
 # DS18B20 Sensor Scanner
 
-A simple ESP32-based program to scan and display the addresses of DS18B20 temperature sensors connected to a 1-Wire bus. This program helps identify all sensors on the bus, validate their addresses using CRC, and count the number of detected sensors..
+A simple ESP32-based program to scan and display the addresses of DS18B20 temperature sensors connected to a 1-Wire bus. This program helps identify all sensors on the bus, validate their addresses using CRC, and count the number of detected sensors.
 
 ## Features
 - Scans the 1-Wire bus for connected devices.
